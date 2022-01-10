@@ -3,3 +3,6 @@
 - Tacos
 - Toothpaste
 - Ten turnips
+- Taco seasoning
+- Trulys
+- Tuna
